@@ -5,6 +5,9 @@ public class UpdateScript {
 	public static void main(String[] args) {
 		
 		System.out.println("Scripts updated");
+		
+		System.out.println("Sajid hero");
+		
 
 	}
 
