@@ -7,8 +7,6 @@ public class Script_1 {
 		
 		System.out.println("Script_1");
 		
-		
-
 	}
 
 }
